@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66fd2f6792fe8f0499a4e147d911afff
+timeCreated: 1528562920
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KenVector Future Thin Square
+  fontNames:
+  - KenVector Future Thin Square
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
